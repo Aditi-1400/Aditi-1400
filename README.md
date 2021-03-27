@@ -2,7 +2,7 @@
 ](http://aditisingh.me/Portfolio-Website/index.html)
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-I'm [Aditi Singh](https://verma-anushka.github.io/anushkaverma/), a full stack web developer and an open source enthusiast. 
+I'm [Aditi Singh](https://github.com/Aditi-1400), a full stack web developer and an open source enthusiast. 
 
  ---
 **Languages and Tools:**
@@ -24,7 +24,6 @@ I'm [Aditi Singh](https://verma-anushka.github.io/anushkaverma/), a full stack w
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=aditi-1400&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  
 </p>
 
  ---
