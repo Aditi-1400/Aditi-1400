@@ -21,7 +21,7 @@ I'm [Aditi Singh](https://github.com/Aditi-1400), a full stack web developer and
  
 **Github Stats:**
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=aditi-1400&theme=dracula&hide_border=true">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=aditi-1400&theme=dracula"/>
    <img src="https://github-readme-stats.vercel.app/api?username=aditi-1400&hide=stars&show_icons=true&theme=dracula&line_height=32">
 </p>
 
