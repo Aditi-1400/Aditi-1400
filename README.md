@@ -6,7 +6,7 @@ I'm [Aditi Singh](https://github.com/Aditi-1400), a full stack web developer and
 
  ---
 **Languages and Tools:**
-
+ 
 <p align="center">
 
   <div align="center">
