@@ -1,5 +1,6 @@
-[![Header](https://user-images.githubusercontent.com/62544124/112609840-08b50980-8e42-11eb-96fd-fecf7c19a93f.gif)
-](http://aditisingh.me/Portfolio-Website/index.html)
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/62544124/112609840-08b50980-8e42-11eb-96fd-fecf7c19a93f.gif"/>
+ </p>
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
 I'm [Aditi Singh](https://github.com/Aditi-1400), a full stack web developer and an open source enthusiast. 
